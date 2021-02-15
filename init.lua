@@ -25,21 +25,21 @@ local textregeln = [[Serverregeln:
 
 Wir spielen in einer gemeinsamen Welt. Wie im richtigen Leben klappt das nur, wenn sich alle an bestimmte Regeln halten:
 
-Seid nett zu Euren Mitspieler:innen. Beschimpft und beleidigt niemanden.
-Ihr dürft keine Mitspieler:innen »schlagen« (PvP), keine Schwerter o.ä verwenden.
-Helft Euren Mitspieler:innen, falls sie nicht weiterwissen.
-
-Zerstört nichts, was Ihr nicht selber gebaut habt.
-Baut nichts auf oder in der Nähe von fremden Grundstücken (außer, Ihr wurdet eingeladen).
-Geht nicht in fremde Häuser (außer Ihr habt gefragt oder wurdet eingeladen).
-
-Verwendt kein Lava, ohne vorher einen Graben angelegt zu haben (sonst brennt die ganze Welt nieder).
-Verwendet kein Wasser, ohne einen Graben angelegt zu haben (sonst wird die ganze Welt überflutet).
-Verwendet kein Feuer, sonst brennt Ihr alles nieder.
-Ihr dürft keine »mobs« (Tiere, Monster o.ä.) oder eggs (Eier) und ähnliches verwenden.
-Verwendet nur Materialien, die zu unserer Themenwelt passen ...
-
-Ihr müsst Euch an die Regeln halten, sonst werdet Ihr vom Server verbannt.
+1. Habt Spaß auf dem Server und verderbt niemand anderem den Spaß.
+2. Man darf keine Schimpfwörter benutzen, niemand beleidigen oder provozieren.
+3. Im Chat bitte nicht schreien (Grossbuchstaben mit Capslock) oder Zeichen sinnlos wiederholen. 
+4. An fremden Bauwerken darf man ohne Erlaubnis nichts verändern, selbst wenn sie nicht geschützt sind. Erst recht ist Zerstörung nicht erlaubt. 
+5. Eine Person darf maximal mit zwei Accounts online gehen.
+6. Keine Minen von anderen plündern, die sie mühsam angelegt haben.
+7. Anderen keine Sachen klauen. 
+8. Schütze wenn möglich deine Sachen, da es leider auch Spieler gibt, die sich an keine Regeln halten. Das geht mit protector-Steinen oder indem man Moderatoren darum bittet, das mit areas für einen zu erledigen.
+9. Die Bibel darf man gerne lesen, aber nicht andere im Chat damit nerven.
+10. Keine Smokesticks bzw. "EINMAL-Aussichtstürme" in die Landschaft stellen. Smokesticks von anderen ohne erkennbare Funktion dürfen jederzeit abgebaut werden. 
+11. Bäume mit dem Baumstamm bitte ganz abbauen, bis die Blätter herunterfallen.
+12. Keine unanständigen Bauten bauen, z.B. gewisse Körperteile.
+13. Den Anweisungen der Moderatoren ist Folge zu leisten. 
+14. Verstöße gegen die Regeln werden mit zeitweiligem oder dauerhaften Bann bestraft. 
+15. Keine persönlichen Angaben geben, wie Wohnort oder Alter. Nie auf Angebote zu einem Treffen im echten Leben eingehen. Sollte einer dir solche Fragen stellen und keiner vom Team ist da, so gehe aus dem Spiel raus und komme spaeter wieder.
 
 ]]
 
